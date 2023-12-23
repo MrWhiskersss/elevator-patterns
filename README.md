@@ -13,23 +13,23 @@ A program created to explore a few [object oriented design patterns](https://en.
 - git 
 These tools are standard for many development environments so they may be installed on your system by default <br><br>
 
-Check to see if you have the **GNU Make** build tool installed <\br>
+Check to see if you have the **GNU Make** build tool installed
 ```bash
 $ make --version
 ```
-<\br><\br>
+<br>
 
 Check to see if you have the **g++** C++ compiler installed
 ```bash
 $ g++ --version
 ```
-<\br><\br>
+<br>
 
 Check to see if you have the **git** version control tool installed <\br>
 ```bash
 $ git --version
 ```
-<\br><\br>
+<br>
 
 If a tool is not installed when the above commands are run, the system may alert you that the command was not found. If this is the case, please use your systems package manager to install the necessary tools then run the commands again to ensure the tool was installed properly.
 
@@ -38,19 +38,19 @@ Clone the repository to your local machine
 ```bash
 $ git clone https://github.com/MrWhiskersss/elevator-patterns.git ./elevator
 ```
-<\br><\br>
+<br>
 
 Change the current working directory to the directory the repository was cloned to
 ```bash
 $ cd elevator
 ```
-<\br><\br>
+<br>
 
 Compile the source code into an executable
 ```bash
 $ make
 ```
-<\br><\br>
+<br>
 
 The executable should now be present in the repository directory
 
@@ -59,7 +59,7 @@ Running the program from the repository directory
 ```bash
 $ run.out
 ```
-<\br><\br>
+<br>
 
 Running the program with the provided example input file
 ```bash
