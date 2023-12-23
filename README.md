@@ -11,7 +11,7 @@ A program created to explore a few [object oriented design patterns](https://en.
 - GNU Make
 - g++
 - git 
-These tools are standard for many development environments so they may be installed on your system by default <\br><\br>
+These tools are standard for many development environments so they may be installed on your system by default <br><br>
 
 Check to see if you have the **GNU Make** build tool installed <\br>
 ```bash
