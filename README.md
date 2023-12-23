@@ -3,9 +3,9 @@
 A program created to explore a few [object oriented design patterns](https://en.wikipedia.org/wiki/Design_Patterns) in C++. The program emulates the functionality of an elevator traveling to different floors.
 
 ### Object Oriented Design Patterns Utilized Here:
-- State pattern
-- Chain of Responsibility pattern
-- Strategy Pattern
+- State
+- Chain of Responsibility
+- Strategy
 
 ### Required Tools:
 - GNU Make
@@ -54,13 +54,13 @@ $ make
 ## Usage Instructions
 Running the program from the repository directory
 ```bash
-$ run.out
+$ ./run.out
 ```
 <br>
 
 Running the program with the provided example input file
 ```bash
-$ run.out test.txt
+$ ./run.out test.txt
 ```
 
 ## Tips
