@@ -12,7 +12,7 @@ A program created to explore a few [object oriented design patterns](https://en.
 - g++
 - git 
 <br>
-These tools are standard for many development environments so they may be installed on your system by default <br><br>
+> These tools are standard for many development environments so they may be installed on your system by default <br><br>
 
 Check to see if you have the **GNU Make** build tool installed
 ```bash
@@ -32,7 +32,7 @@ $ git --version
 ```
 <br>
 
-If a tool is not installed when the above commands are run, the system may alert you that the command was not found. If this is the case, please use your systems package manager to install the necessary tools then run the commands again to ensure the tool was installed properly.
+> If a tool is not installed when the above commands are run, the system may alert you that the command was not found. If this is the case, please use your system's package manager to install the necessary tools then run the commands again to ensure the tool was installed properly.
 
 ## Installation Instructions
 Clone the repository to your local machine
@@ -51,9 +51,6 @@ Compile the source code into an executable
 ```bash
 $ make
 ```
-<br>
-
-The executable should now be present in the repository directory
 
 ## Usage Instructions
 Running the program from the repository directory
