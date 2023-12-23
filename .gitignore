@@ -1,0 +1,5 @@
+# ignore the build directory with temporary object files
+build
+
+# ignore the executable generated
+run.out
