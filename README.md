@@ -54,13 +54,13 @@ $ make
 ## Usage Instructions
 Running the program from the repository directory
 ```bash
-$ run.out
+$ ./run.out
 ```
 <br>
 
 Running the program with the provided example input file
 ```bash
-$ run.out test.txt
+$ ./run.out test.txt
 ```
 
 ## Tips
