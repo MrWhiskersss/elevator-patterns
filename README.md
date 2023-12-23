@@ -11,6 +11,7 @@ A program created to explore a few [object oriented design patterns](https://en.
 - GNU Make
 - g++
 - git 
+<br>
 These tools are standard for many development environments so they may be installed on your system by default <br><br>
 
 Check to see if you have the **GNU Make** build tool installed
@@ -25,7 +26,7 @@ $ g++ --version
 ```
 <br>
 
-Check to see if you have the **git** version control tool installed <\br>
+Check to see if you have the **git** version control tool installed
 ```bash
 $ git --version
 ```
